@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Stas Skibickiy. I am a Python developer with more than 2 years of experience. I love work with new technologies. I have experience with the following technologies:
+### 👋 Hi! I'm Stas Skibickiy. I am a Python developer with more than 2 years of experience. I love to develop and learn new technologies. I have experience with the following technologies:
 
 
 - Back-end <br>
