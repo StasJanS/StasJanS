@@ -7,7 +7,7 @@
 - Database <br>
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> <img width="40" height="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_database_logo_freelogovectors.net_.png"/><img width="40" height="40" src="https://www.nuget.org/profiles/SQLite/avatar?imageSize=512"/><img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmdp4WJDVZKqIb8_DX4S0P6x5fqKJdaDgsBS4HgGWUUGzzQxZ_h6vrhw9jWPLfXrl3R7I&usqp=CAU"/>
 - Version control <br>
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img width="40" height="40" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"/><img width="40" height="40" src="https://
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img width="40" height="40" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"/><img width="40" height="40" src="https://yt3.googleusercontent.com/R6P5skGdZJeM1bebvt3ILeU8k-9tiqE5T198RmBH8SoGXH2gk_Lk-45uZoq6X6pW4a4c9Sqn=s900-c-k-c0x00ffffff-no-rj"/>
 <!--
 **StasJanS/StasJanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
