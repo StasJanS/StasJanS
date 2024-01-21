@@ -1,4 +1,5 @@
-### 👋 Hi! I'm Stas Skibickiy. I am a Python developer with more than 2 years of experience. I love work with new technologies. I have experience with the following technologies:
+# 👋 Hi! I'm Stas Skibickiy. I am a Python developer with more than 2 years of experience. I love work with new technologies. I have experience with the following technologies:
+
 
 - Back-end <br>
 <img width="40" height="40" src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvV89itTjKIoztoMSACBd2Ky1vPErwZCN0oyTArdxKjfY_nXW2PboiViP4eCuoW8swuzI&usqp=CAU"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGirVfkduqiAfJAnCHBw78A3HYIv7pdMmIw&usqp=CAU"/> <img width="40" height="40" src="https://pbs.twimg.com/profile_images/3534818042/cb2fc8174648f5862d73efc33109e8ea_400x400.png"/> <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoSiXALVlUCkVbUS3VIJPrHufnHETi73wEKiVhuEgdoCPlDaccJazHO8E1PDm7otxQmE&usqp=CAU"/> <img width="40" height="40" src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png"/> 
