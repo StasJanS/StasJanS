@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
+
 ### 👋 Hi! I'm Stas Skibickiy. I am a Python developer with more than 2 years of experience. I love to develop and learn new technologies. I have experience with the following technologies:
 
 
